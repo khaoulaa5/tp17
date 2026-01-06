@@ -1,0 +1,3 @@
+<root>
+<employee><id>1</id><name>Ali</name><salary>9000</salary><email>ali@example.com</email><hire_date>2020-01-15</hire_date><skills>JavaScript</skills><skills>Node.js</skills><skills>React</skills><is_active>true</is_active></employee><employee><id>2</id><name>Kamal</name><salary>22000</salary><email>kamal@example.com</email><hire_date>2018-06-20</hire_date><skills>Python</skills><skills>Django</skills><skills>PostgreSQL</skills><is_active>true</is_active></employee><employee><id>3</id><name>Amal</name><salary>23000</salary><email>amal@example.com</email><hire_date>2019-03-10</hire_date><skills>Java</skills><skills>Spring Boot</skills><skills>Kubernetes</skills><skills>gRPC</skills><is_active>false</is_active></employee>
+</root>
